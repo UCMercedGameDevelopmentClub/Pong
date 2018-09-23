@@ -7,4 +7,4 @@ Week 1: Setting up the scene / intro to unity
         
 Week 2: Tracking player's score and displaying score.
 
-        https://drive.google.com/open?id=1h8yUjhbXBaldH3zNginAhLKusdp9C6eC
+        https://docs.google.com/presentation/d/1lP4pp7B98IW1DOSddjzB0BZ_peGTpDzx7S3Zlnr-inE/edit?usp=sharing
