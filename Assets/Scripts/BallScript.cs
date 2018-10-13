@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallScript : MonoBehaviour {
 	[SerializeField]
-	float forceValue = 5f;
+	float forceValue = 4.5f;
 	Rigidbody2D ballRB;
 	
 	// Use this for initialization
